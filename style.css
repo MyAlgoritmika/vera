@@ -1,0 +1,81 @@
+body {
+    font-family: sans-serif;
+}
+a {
+    border: 2px solid blue;
+    text-decoration: none;
+    border-radius: 10px;
+    padding: 10px ;
+    background-image: linear-gradient(blue, #5DCEC6, green, #38E05D);
+    color: black;
+}
+ol {
+    color:
+}
+
+
+.link-header { 
+    margin: 20px 0px 20px 20px;
+    
+}
+
+header {
+    height: 100px;
+    background-color: #bfecc8;
+}
+
+.link-nav {
+    margin-left: 20px;
+    position: relative;
+    top: 30px;
+}
+
+
+h1 {
+    margin-top: 50px;
+}
+
+.logo {
+    position: relative;
+    top: 10px;
+    left: 30px;
+}
+
+
+.product {
+    padding: 20px;
+    border: 1px solid rgb(167, 166, 166);
+    border-radius: 10px;
+    margin: 20px;
+    width: 700px;
+    background-color: #ebf1ec;
+}
+
+
+.btn {
+    margin-left: 20px;
+    position: relative;
+    bottom: 10px;
+}
+
+
+
+footer {
+    height: 100px;
+    background-color: #bfecc8;
+}
+
+
+footer p {
+    position: relative;
+    top: 40px;
+    left: 50px;
+    
+}
+
+
+.logo2 {
+    position: relative;
+    left: 300px;
+    bottom: 20px;
+}
