@@ -10,7 +10,7 @@ a {
     color: black;
 }
 ol {
-    color:
+    color:rgb(20, 51, 114)
 }
 
 
@@ -79,3 +79,13 @@ footer p {
     left: 300px;
     bottom: 20px;
 }
+ p   {
+    color: rgb(20, 51, 114);
+}
+ img:hover {
+    transform: scale(1.2);
+    transition: all;
+ }
+ h1 {
+    color: rgb(43, 81, 157); 
+ }
